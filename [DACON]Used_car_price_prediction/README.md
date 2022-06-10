@@ -1,7 +1,7 @@
 # 중고차 가격 예측 경진대회
 
 - [해당 DACON 바로가기](https://dacon.io/competitions/official/235901/overview/description)
-- [코드](https://github.com/wjsrlahrlco1998/DACON-code/blob/master/[DACON]Used_car_price_prediction/pycaret(1).ipynb)
+- [코드](https://github.com/wjsrlahrlco1998/DACON-code/blob/master/[DACON]Used_car_price_prediction/ols_analysis_pycaret.ipynb)
 
 ---
 
