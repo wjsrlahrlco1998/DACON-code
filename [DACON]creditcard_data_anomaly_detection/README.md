@@ -1,4 +1,4 @@
-# [스포츠] 해외 축구 선수 이적료 예측 미션
+# [월간데이콘] 신용카드 사기 거래 탐지 AI 경진대회
 
 - [해당 DACON 바로가기](https://dacon.io/competitions/official/235930/overview/description)
 - [코드](https://github.com/wjsrlahrlco1998/DACON-code/blob/master/[DACON]creditcard_data_anomaly_detection/AutoEncoder_torch_submit.ipynb)
